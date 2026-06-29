@@ -1,0 +1,19 @@
+# Logs
+*.log
+logs/
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Linux editor files
+.vscode/
+.idea/
